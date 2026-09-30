@@ -29,4 +29,6 @@ If free Glovium can make people ragequit, Hydride is even better
 Buying a Hydride licence helps support Glovium a TON. It funds us to continue adding more games for Hydride and Glovium and invest time into even cooler technology. 
 
 ### Disclaimer
-Both Glovium and Hydride is my work. I did not "rip off" Glovium by adding to it. You will notice a LOT of modules have been recycled, and that's because Hydride is an extension of what Glovium brings to the table. 
+Both Glovium and Hydride is my work. I did not "rip off" Glovium by adding to it. You will notice a LOT of modules have been recycled, and that's because Hydride is an extension of what Glovium brings to the table. If Glovium ever releases a keysystem, all Hydride supporters will be able to bypass it. There will never be a double stacked keysystem and paid access in Hydride. A pay of 150 robux and the licence of Hydride is yours.  
+
+
